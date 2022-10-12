@@ -1,0 +1,21 @@
+.most {
+    background-color: rgb(233, 162, 162);
+    font-family: Verdana, DejaVu Sans, Tahoma, sans-serif;
+}
+
+.cooler {
+    font-size: 24px;
+    
+}
+
+#another {
+    background-color: hsl(120,100%,75%);
+    font-size: 24px;
+    font-weight: bold;
+
+}
+
+#num2 {
+    color:#0000ff;
+    font-size: 36px;
+}
